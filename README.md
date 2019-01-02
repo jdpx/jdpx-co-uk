@@ -1,4 +1,4 @@
-# JDPX.co.uk
+# jdpx.co.uk
 
 This is the repo for personal website [jdpx.co.uk](https://www.jdpx.co.uk/)
 
